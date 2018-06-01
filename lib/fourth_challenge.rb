@@ -11,7 +11,8 @@ def fourth_challenge
         },
         {:name => 
           :age =>
-          :attitude => }
+          :attitude => 
+        }
       ]
    }, 
    :capulet => {
@@ -24,7 +25,8 @@ def fourth_challenge
           :attitude => },
         {:name => 
           :age =>
-          :attitude => }
+          :attitude => 
+        }
       ]
    }
 }
